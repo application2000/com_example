@@ -54,8 +54,7 @@ class ExampleViewExample extends HtmlView
 		$this->toolbar();
 
 		// Show the sidebar
-		$this->helper = new ExampleHelper;
-		$this->helper->addSubmenu('example');
+		ExampleHelper::addSubmenu('example');
 		$this->sidebar = JHtmlSidebar::render();
 
 		// Display it all

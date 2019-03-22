@@ -29,7 +29,7 @@ class ExampleHelper
 	 *
 	 * @since   1.0
 	 */
-	public function addSubmenu($vName)
+	public static function addSubmenu($vName)
 	{
 		JHtmlSidebar::addEntry(Text::_('COM_EXAMPLE'), 'index.php?option=com_example&view=example', $vName == 'example');
 

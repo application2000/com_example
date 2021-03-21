@@ -19,3 +19,28 @@ With near to no code at all. Just a little change, you can start leveraging mult
 Hope it helps. Keep Joomla! developers community growing. Don't give up! Go Joomla!
 Any useful remarks or contributions are more than welcome.
 Thank you for your time. Take care. Have a nice day!
+
+## COMMUNITY
+> In English:
+
+Get in touch on social media or contact me directly
+* Website: [https://coderparlerpartager.fr/en](https://coderparlerpartager.fr/en)
+* Contact: [Contact me](https://coderparlerpartager.fr/en/say-hello)
+* Newsletter: [Weekly newsletter of technical blog](https://coderparlerpartager.fr/en/get-newsletter)
+
+---
+
+> En français
+
+Contactez-moi directement ou bien sur les réseaux sociaux
+
+* Site web: [https://coderparlerpartager.fr](https://coderparlerpartager.fr)
+* Contact: [Me contacter](https://coderparlerpartager.fr/contact)
+* Newsletter: [Newsletter hebdomadaire blog technique](https://coderparlerpartager.fr/newsletter)
+
+---
+
+* Twitter: [@mralexandrelise](https://twitter.com/mralexandrelise)
+* Facebook: [coderparlerpartager](https://www.facebook.com/coderparlerpartager)
+* Linkedin: [coderparlerpartager](https://www.linkedin.com/company/coderparlerpartager)
+* Youtube: [coderparlerpartager](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
